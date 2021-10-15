@@ -1,27 +1,58 @@
-Development Mini-Log #2 | 10/10/2021
+Development Log #5 | 10/15/2021
+                    DOUBLE PING  
 
 Server:
+• Removed Obsolete props throughout the map.
+• Cleaned up props added by YMAPS throughout the map.
+• Fixed Collisions on some objects in certain interiors
+• Re-added more street light YMAP.
+• Fixed issues with Fruit picking job, Farming job and Warehouse job.
 • Optimization & increased Network stability.
-• Updated to the latest FiveM artifacts.
-• Locals have been increased. AI—Traffic
+• Voice & Radio optimizations.
+• Radio volume now has the ability to be lowered and raised. (EX: /radiovol 0-100)
+• Vehicle locking mechanics changed a smidge.
+• Flying boat glitch has been patched.
 • HUD Edits and Optimizations.
-• If your inventory is stuck on your screen, you may now do -nui in console to remove it.
 
 City:
-• New jobs added, check em out for yourself. (Fruit Picker - In progress.)
-• Bean Machine Introduced, unique items sold to benefit you.
-• Bike Rentals at Pillbox, Jail, and Job Center.
-• Burger Shot coming soon.
+• Added Fruit Picking Job! (Finished)
+• Added Farming Job! (Finished)
+• Added Warehouse Job! (Finished)
+• Fixed issues with mining.
+• Upped garbage lootpool for certain items.
+• Readded weapon models
+• Removed Machine Pistols (IF YOU HAVE ANY, PLEASE MESSAGE KIHNIX#7596 TO BE REIMBURSED)
+• Fixed crashing issues in Mirror Park area.
+• Fixed missing tree collisions at 7215, 7214 and 7168.
+• Tweaked recoil for certain weapons.
+• Added New Loading Screen
+• A city wide event will happen soon!
+• Zipties & Scissors will make their way to the city soon.
 
 Civilian:
 • Improved handling lines for vehicles.
-• System for injuries and hospitalization is in the works.
+• Added missing vehicles from GTA5 Update: Lowriders, Summer Special and Tuners into the vehicle shop.
+• Added Beretta M9A3 model to replace the "Pistol" model.
+• Added more interiors around the map for certain whitelisted gangs within the city.
+• Added additional texture options for some default GTA5 clothing.
+• Added more wheel options for optional categories (Lowrider wheel options, Sports) 
 
-Law Enforcement:
-• If you accidently go over the max jail sentence, it will automatically correct to the maximum sentence.
-• Improved handling lines for vehicles.
+Civilian EUP
+• Added removed clothing
+• Added Escape from Tarkov Gear (Backpacks, Body Armor, Helmets)
+• Will be adding additional clothing from suggestions in the coming days.
 
 EMT:
-• Hospital system in the works.
-• Improved handling lines for vehicles.
-• Garage at Pillbox.
+• Added AMR13FPIU to EMS Vehicle Shop.
+• Government received a budget increase. ALL employees earned a pay increase.
+• 2013 Ford Explorer Emergency Response has been added to vehicle shop.
+
+LEO: 
+• Added AS350 for SAHP & LSPD into /subs
+• Added Bike Unit for SAHP (BCSO & LSPD TO COME)
+• Government received a budget increase. ALL employees earned a pay increase.
+• ALL Department vehicles handling have been updated.
+• Corporal rank added to Los Santos Police Department.
+• SWAT Armory added to Mission Row. (Only accessible by SWAT.)
+• Senior Deputy rank added to Blaine County Sheriff's Office.
+• Handcuffs & Handcuff keys will make their way to the city soon.
