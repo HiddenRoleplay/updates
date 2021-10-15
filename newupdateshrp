@@ -1,1 +1,27 @@
-- Added New Loading Screen
+Development Mini-Log #2 | 10/10/2021
+
+Server:
+• Optimization & increased Network stability.
+• Updated to the latest FiveM artifacts.
+• Locals have been increased. AI—Traffic
+• HUD Edits and Optimizations.
+• If your inventory is stuck on your screen, you may now do -nui in console to remove it.
+
+City:
+• New jobs added, check em out for yourself. (Fruit Picker - In progress.)
+• Bean Machine Introduced, unique items sold to benefit you.
+• Bike Rentals at Pillbox, Jail, and Job Center.
+• Burger Shot coming soon.
+
+Civilian:
+• Improved handling lines for vehicles.
+• System for injuries and hospitalization is in the works.
+
+Law Enforcement:
+• If you accidently go over the max jail sentence, it will automatically correct to the maximum sentence.
+• Improved handling lines for vehicles.
+
+EMT:
+• Hospital system in the works.
+• Improved handling lines for vehicles.
+• Garage at Pillbox.
